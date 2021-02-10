@@ -1,6 +1,16 @@
 {
-  "categories": ["Paradigms of programming", "Compilers", "React", "Life"],
+  "categories": ["Compilers", "React", "Paradigms of programming",  "Life"],
   "posts": [
+    {
+      "id": "4",
+      "category": "Compilers",
+      "lineage": "Some General knowledge",
+      "title": "Multiple dispatch for people who never sought a world beyond function overloading",
+      "description": "No idea what dispatch is ? this post is for you ;P",
+      "created": "03-09-2021",
+      "link": "/posts/multipleDispatch.md",
+      "backup": ""
+    },
     {
       "id": "3",
       "category": "React",
