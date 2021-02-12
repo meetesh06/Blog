@@ -1,5 +1,3 @@
-# Multiple dispatch for people who never sought a world beyond function overloading
-
 I found it extremely tricky to understand the importance that a feature like 
 multiple dispatch might offer, but as it always is the devil is in the details.
 Someone with no idea about dispatch, let alone multiple dispatch 
