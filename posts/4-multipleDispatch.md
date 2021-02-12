@@ -28,7 +28,7 @@ type of person and might interact with any kind of an object. You do not know wh
 
 Defining a person and all things he can interact with
 
-```Java
+```java
 // For sake of simplicity let us first consider the husband only
 public interface Person {
   // Some common properties like name, etc.
@@ -40,7 +40,7 @@ public interface Person {
 
 Defining the characters
 
-```Java
+```java
 public class Husband implements Person {
   public void interact(EnvObj a) { // print "ignore" 
   }
@@ -53,7 +53,7 @@ public class Husband implements Person {
 ```
 Defining the objects
 
-```Java
+```java
 // Objects On Scene
 interface EnvObject {
   // Some common properties like mass, acceleration, etc.
@@ -64,7 +64,7 @@ class Piano implements EnvObject {
 ```
 
 During code execution
-``` Java
+``` java
   public void encounters(Person p, EnvObject o) {
     p.interact(o); //is this even correct ?
   }
@@ -85,7 +85,9 @@ What if we could define something that says,
 (Person, Burger) - interact -> "just eat it."
 
 In doing so we come across a scenario of unquestionable uncertainity,
+
 (Husband, EnvObject) -> "ignore"
+
 (Person, Burger) -> "Eat it"
 
 Both of there definitions are correct in their own regard, but which is __more correct__ is obvious.
