@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,QACJ,CACA,yBAA2B,iBAAoB,CAE/C,KAAO,6BAA8B,CAE9B,uBAFgC","file":"main.7da97ac9.chunk.css","sourcesContent":["body {\r\n    margin: 0;\r\n}\r\nbody ::-webkit-scrollbar { width: 0 !important }  \r\n\r\nbody { overflow: -moz-scrollbars-none; }\r\n\r\nbody { -ms-overflow-style: none; }\r\n\r\n"]}
