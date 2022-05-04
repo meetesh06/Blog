@@ -1,3 +1,9 @@
+<!-- The Visitor Pattern -->
+<!-- Compilers -->
+<!-- Common Knowledge -->
+<!-- An in-depth video about the visitor pattern -->
+<!-- 09-12-2021 -->
+
 Visitor pattern tries to create a system of double dispatch in languages that support 
 single dispatch.
 

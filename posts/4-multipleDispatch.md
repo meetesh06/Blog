@@ -1,3 +1,9 @@
+<!-- What is multiple dispatch ? -->
+<!-- Compilers -->
+<!-- Common Knowledge -->
+<!-- Post discusses an example scenario that explains the working of dispatch and eventually the concept of multiple dispatch. -->
+<!-- 02-11-2021 -->
+
 I found it extremely tricky to understand the importance that a feature like 
 multiple dispatch might offer, but as it usually is the devil is in the details.
 Someone with no idea about dispatch, let alone multiple dispatch 
