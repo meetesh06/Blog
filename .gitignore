@@ -1,2 +1,11 @@
-loadBuild.sh
-generatePostMetadata.js
+# loadBuild.sh
+# generatePostMetadata.js
+LabEntries/
+PostsRaw/
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+out
